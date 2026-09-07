@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>AIKI 위키 RSS</title>
+    <link>https://aiki.softdaddy-o.com/ko/wiki/</link>
+    <description>AIKI 최신 AI 위키 업데이트 요약</description>
+    <atom:link href="https://aiki.softdaddy-o.com/ko/wiki/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <language>ko-KR</language>
+    <item>
+        <title>Claude Fable 5(클로드 페이블 5)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/claude-fable/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/claude-fable/</guid>
+        <description>Claude Fable 5는 Anthropic의 Mythos급 Claude 모델이야. 장기 코딩·지식 작업 성능보다 API 접근, 30일 데이터 보관, 6월 이후 접근 제한을 먼저 확인해야 해.</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>Coding Agent(코딩 에이전트)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/coding-agent/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/coding-agent/</guid>
+        <description>Coding Agent(코딩 에이전트)는 코드 질문에 답만 하는 도구가 아니라, 프로젝트 파일을 읽고 고치고 테스트나 명령 결과로 다음 행동을 정하는 개발용 AI 에이전트야.</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>Tmax(티맥스)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/tmax/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/tmax/</guid>
+        <description>Tmax는 셸 명령을 직접 치는 터미널 에이전트를 만드는 오픈 레시피로, Ai2와 워싱턴대가 2B~27B 가중치·학습 데이터·재현 코드를 통째로 공개한 프로젝트야.</description>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Open-weight(오픈 웨이트)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/open-weight/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/open-weight/</guid>
+        <description>Open-weight는 학습이 끝난 모델 가중치를 내려받아 실행하거나 미세조정할 수 있게 공개한 상태를 말해. 다만 학습 코드, 데이터 정보, 재현 절차까지 열린 오픈소스 AI와는 다른 말이야.</description>
+        <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>AI Mode (AI 모드)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/ai-mode/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/ai-mode/</guid>
+        <description>AI Mode는 Google Search 안에서 복잡한 질문을 AI 답변, 후속 질문, 웹 링크로 이어 주는 검색 모드야. 일반 검색 결과 목록보다 여러 하위 질문을 한꺼번에 굴려서 비교나 탐색을 돕는 쪽에 가까워.</description>
+        <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>Hugging Face Hub(허깅 페이스 허브)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/hugging-face-hub/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/hugging-face-hub/</guid>
+        <description>Hugging Face Hub는 모델, 데이터셋, 데모 앱을 올리고 찾는 공개 AI 플랫폼이야. 모델 이름보다 저장소, 라이선스, 카드, 배포 경로를 같이 확인해야 해.</description>
+        <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>opencodex(오픈코덱스)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/opencodex/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/opencodex/</guid>
+        <description>OpenAI Codex CLI·앱·SDK 앞에 끼는 로컬 프록시야. Codex가 보내는 Responses API 요청을 다른 형식으로 번역해서 Claude·Gemini 같은 다른 LLM으로 돌리게 해줘.</description>
+        <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Search (검색)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/search/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/search/</guid>
+        <description>Search는 질문을 웹 색인, 실시간 정보, AI 응답으로 보내 답과 링크, 때로는 후속 행동 후보까지 돌려주는 정보 탐색 방식이야.</description>
+        <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>Word(워드 문서)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/word/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/word/</guid>
+        <description>Word(워드 문서)는 AI가 만든 초안을 .docx처럼 다시 편집할 수 있는 문서 파일로 받는 선택지야.</description>
+        <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>MiMo Code (미모 코드)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/mimo-code/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/mimo-code/</guid>
+        <description>MiMo Code는 장기 과업을 이어서 처리하는 오픈소스 코딩 에이전트 도구야.</description>
+        <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>agent-skills</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/agent-skills/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/agent-skills/</guid>
+        <description>agent-skills는 Claude Code·Cursor·Gemini CLI 같은 AI 코딩 에이전트가 요구사항 정리부터 배포까지 시니어 엔지니어의 작업 순서와 품질 게이트를 따라 하도록 묶어둔 MIT 라이선스 GitHub 스킬 패키지야.</description>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Savvly MCP (세이블리 MCP 서버)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/savvly-mcp/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/savvly-mcp/</guid>
+        <description>Savvly 장수 연금 상품에 AI 에이전트가 직접 연결할 수 있도록 MCP로 열어둔 금융 서비스 서버. 은퇴 설계, 수익률 시뮬레이션, 자격 조건 확인을 툴 호출로 실행한다.</description>
+        <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Agentic AQUA (에이전틱 아쿠아)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/agentic-aqua/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/agentic-aqua/</guid>
+        <description>Agentic AQUA는 AI 어시스턴트가 자연어로 비트코인·라이트닝·리퀴드 지갑을 다루게 해주는 Python MCP 서버 겸 CLI야. 시드 하나로 비트코인과 리퀴드를 같이 관리하고 키는 로컬에만 둬.</description>
+        <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Engram(엔그램)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/engram/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/engram/</guid>
+        <description>Engram은 Claude Code·Codex·Cursor 같은 MCP 호환 AI 도구가 같은 사용자 컨텍스트를 읽도록, 정체성·결정·기록을 로컬 JSON으로 모아두는 identity layer야.</description>
+        <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>MCP server (MCP 서버)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/mcp-server/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/mcp-server/</guid>
+        <description>MCP server는 AI 앱이 외부 데이터, 도구, 프롬프트를 표준 MCP 연결로 호출할 수 있게 해 주는 서버 쪽 구성요소야.</description>
+        <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+        <category>framework</category>
+    </item>
+    <item>
+        <title>Gemini Omni(제미니 옴니)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gemini-omni/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gemini-omni/</guid>
+        <description>Gemini Omni는 Google DeepMind가 공개한 Gemini 계열의 영상 생성·편집 모델 가족이야. 첫 모델인 Gemini Omni Flash는 텍스트·이미지·오디오·영상을 입력으로 받아 대화형으로 영상을 만들고 고쳐.</description>
+        <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>OpenMemory (오픈메모리)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/openmemory/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/openmemory/</guid>
+        <description>OpenMemory는 LLM 에이전트와 코딩 어시스턴트가 세션을 넘기는 영구 컨텍스트를 SQLite·Postgres에 자체 호스팅으로 쌓아 두는 오픈소스 메모리 저장소야. RAG 벡터 검색이 아니라 episodic·semantic·procedural·emotional·reflective 다섯 종류 메모리를 분리해 저장하고, MCP 서버로 Claude Desktop·Codex·Copilot에 붙여 써.</description>
+        <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>x402 (에이전트 micropayment 프로토콜)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/x402/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/x402/</guid>
+        <description>x402는 HTTP 402 Payment Required 상태 코드를 활용해 API 호출당 USDC micropayment를 자동 결제하는 오픈 프로토콜이야. AI 에이전트가 사람 개입 없이 유료 API와 MCP 서버에 결제하는 흐름을 표준화하는 게 목적이야.</description>
+        <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        <category>framework</category>
+    </item>
+    <item>
+        <title>GPT-4.1 (지피티 4.1)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gpt-4.1/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gpt-4.1/</guid>
+        <description>GPT-4.1은 OpenAI의 텍스트 파인튜닝 모델로, 1M 토큰 컨텍스트와 gpt-4.1 계열 미세조정 라인을 함께 다루는 버전 모델이야.</description>
+        <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>RTX 3090 (알티엑스 3090)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/rtx-3090/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/rtx-3090/</guid>
+        <description>RTX 3090은 NVIDIA의 GeForce RTX 30 계열 고급 소비자 GPU야. 로컬 LLM 기사에서는 최신 서버 카드라는 뜻보다, 24GB VRAM을 가진 NVIDIA 카드에서 실행했다는 구체 하드웨어 조건으로 읽어야 해.</description>
+        <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>Microsoft Qlib (마이크로소프트 Qlib)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/qlib/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/qlib/</guid>
+        <description>Microsoft Qlib은 퀀트 연구에서 필요한 데이터 준비, 모델 학습, 백테스트, 결과 분석을 한 흐름으로 이어 주는 오픈소스 플랫폼이야. 먼저 볼 건 모델 점수가 아니라 데이터 규격과 qrun 재현성이 팀에 맞는지야.</description>
+        <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>A4B NVFP4(A4B 엔브이FP4)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/a4b-nvfp4/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/a4b-nvfp4/</guid>
+        <description>A4B NVFP4는 A4B MoE 구조의 모델을 NVIDIA의 NVFP4 4비트 포맷으로 양자화해 배포한다는 조합 표현이야. 모델 구조의 계산량 신호와 가중치 저장 포맷을 한 번에 말할 때 쓰여.</description>
+        <pubDate>Wed, 29 Apr 2026 15:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>Apache Airflow (아파치 에어플로)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/apache-airflow/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/apache-airflow/</guid>
+        <description>Apache Airflow는 Python 코드로 작업 순서와 의존성을 적고, 예약 실행·재시도·실행 이력 확인까지 묶어 운영하는 도구야. 단순 예약 실행기인지 운영형 배치 플랫폼인지 UI와 DAG 구조를 같이 보며 가르는 편이 정확해.</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>claude remote-control(클로드 리모트 컨트롤 명령)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/claude-remote-control/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/claude-remote-control/</guid>
+        <description>Remote Control 서버 모드 명령은 Claude Code에서 원격 제어 서버를 띄우는 CLI 진입점이야. claude.ai/code나 Claude 모바일 앱이 로컬 세션을 조작하게 해.</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>claude --version (버전 조회)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/claude-version/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/claude-version/</guid>
+        <description>Claude Code를 시작하기 전에 claude --version으로 버전 적합성을 먼저 확인하는 진입점 명령이에요.</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>Nemotron 3 Nano Omni (네모트론 3 나노 옴니)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/nemotron-3-nano-omni/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/nemotron-3-nano-omni/</guid>
+        <description>NVIDIA Nemotron 3 Nano Omni는 text, image, video, audio를 함께 읽는 30B-A3B 계열 multimodal understanding 모델이야. 긴 문서, 영상+음성, GUI screenshot을 한 질문 안에서 다룰 때 먼저 검토할 만해.</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>Claude Code v2.1.110(클로드 코드 2.1.110)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/v2.1.110/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/v2.1.110/</guid>
+        <description>Claude Code v2.1.110은 2026년 4월 15일 공개된 Claude Code 릴리스야. /tui fullscreen, 모바일 푸시 알림 도구, 원격 제어 모바일·웹 명령 확대가 같이 들어온 버전으로 봐야 해.</description>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>GPT-5.5 (지피티 5.5)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gpt-5.5/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gpt-5.5/</guid>
+        <description>GPT-5.5는 OpenAI가 2026년 4월 공개한 클라우드형 추론 모델로, 1,050,000토큰 문맥과 도구 사용을 바탕으로 코딩·리서치·문서 작업 같은 긴 업무를 API와 Codex에서 처리하게 해.</description>
+        <pubDate>Tue, 28 Apr 2026 01:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>Activepieces (액티브피시스)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/activepieces/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/activepieces/</guid>
+        <description>Activepieces는 Zapier처럼 앱 자동화를 화면에서 만들고, 부족한 앱 연결은 TypeScript piece로 통합하는 오픈소스 도구야. 직접 서버에 설치하고 운영하는 제품이라는 점부터 확인하는 게 좋아.</description>
+        <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>DeepSeek-V3.2 기술 보고서</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/deepseek-v3.2-%EA%B8%B0%EC%88%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/deepseek-v3.2-%EA%B8%B0%EC%88%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/</guid>
+        <description>DeepSeek-V3.2 기술 보고서는 DSA, 128K 문맥, 대규모 RL, 에이전트 합성 데이터, V3.2-Speciale 벤치마크를 한 번에 설명한 공식 기술 문서야.</description>
+        <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>DeepSeek V4 (딥시크 V4)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/deepseek-v4/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/deepseek-v4/</guid>
+        <description>DeepSeek V4 Preview는 2026년 4월 24일 공개된 DeepSeek의 V4 모델 패밀리야. API에서는 deepseek-v4-pro와 deepseek-v4-flash를 나눠 골라야 해.</description>
+        <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>V4-Flash (딥시크 V4-Flash)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/v4-flash/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/v4-flash/</guid>
+        <description>V4-Flash는 DeepSeek V4 계열의 빠르고 저렴한 모델 버전이야. API에서는 Flash 모델명을 쓰고, 기존 chat/reasoner 호환 이름도 이 모델의 두 모드로 이어져.</description>
+        <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>V4 Preview (V4 프리뷰)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/v4-preview/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/v4-preview/</guid>
+        <description>V4 Preview는 DeepSeek가 2026년 4월 24일 공개한 DeepSeek-V4의 preview 출시 표기야. API 모델명은 v4-preview가 아니라 deepseek-v4-pro나 deepseek-v4-flash로 갈라 봐야 해.</description>
+        <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>V4 Pro (딥시크 V4 프로)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/v4-pro/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/v4-pro/</guid>
+        <description>V4 Pro는 DeepSeek V4 계열의 Pro 모델을 줄여 부르는 말이야. 전체 1.6T, 활성 49B, 1M context, ChatCompletions API 지원을 Flash와 나눠 읽어야 해.</description>
+        <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>MiMo-V2.5-ASR (샤오미 음성인식 모델)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/mimo-v2.5-asr/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/mimo-v2.5-asr/</guid>
+        <description>MiMo-V2.5-ASR는 Xiaomi MiMo가 공개한 8B 음성인식 모델이야. 중국어·영어, 여러 중국어 방언, 코드스위칭, 노래 가사, 잡음 많은 녹음까지 한 모델 안에서 전사하려는 쪽에 가까워.</description>
+        <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>GPT-5.5 Pro (GPT-5.5 프로)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gpt-5.5-pro/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gpt-5.5-pro/</guid>
+        <description>OpenAI가 2026년 4월 공개한 GPT-5 계열 모델이야. 긴 문맥을 오래 유지하면서 API 중심으로 작업 흐름을 이어가야 할 때 바로 쓰기 좋은 편이야.</description>
+        <pubDate>Wed, 22 Apr 2026 15:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>Qwen3.6-27B (큐원 3.6-27B)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/qwen3.6-27b/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/qwen3.6-27b/</guid>
+        <description>API 호출, 원본 가중치 로컬 서빙, GGUF 실험을 모두 열어 둔 Qwen3.6-27B는 Alibaba Qwen 계열 모델이야. 긴 코드·문서 작업에 붙일 때 비용과 데이터 경계를 먼저 나눠 보면 좋아.</description>
+        <pubDate>Wed, 22 Apr 2026 00:20:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>F1 96(에프원 96 표기)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/f1-96/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/f1-96/</guid>
+        <description>F1 96은 OpenAI Privacy Filter 소개에서 개인정보 마스킹 공개 benchmark의 F1 96%를 짧게 적을 때 쓰는 표기야. 새 모델 이름이 아니라 공개 평가 결과를 압축한 숫자로 읽는 편이 맞아.</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>F1 97.43 (정밀도·재현율 조화평균 지표)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/f1-97.43/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/f1-97.43/</guid>
+        <description>F1 97.43은 Privacy Filter의 corrected PII-Masking-300k 스냅샷에서 공개된 특정 점수야.</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>PII-Masking-300k(피아이아이 마스킹 300K)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/pii-masking-300k/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/pii-masking-300k/</guid>
+        <description>AI4Privacy가 Hugging Face에 공개한 개인정보 마스킹 데이터셋이자 벤치마크야. OpenAI Privacy Filter 같은 모델이 긴 텍스트에서 민감한 정보를 얼마나 잘 찾는지 재는 공개 기준으로 자주 인용돼.</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+        <category>dataset</category>
+    </item>
+    <item>
+        <title>Privacy Filter(프라이버시 필터)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/privacy-filter/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/privacy-filter/</guid>
+        <description>OpenAI Privacy Filter는 긴 텍스트에서 이름, 이메일, 전화번호, 계정번호, 비밀키 같은 개인정보 범위를 찾아 라벨로 바꾸는 오픈 웨이트 모델이야.</description>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>PocketBase (포켓베이스)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/pocketbase/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/pocketbase/</guid>
+        <description>PocketBase는 SQLite, admin UI, auth/files/realtime를 한 바이너리에 묶은 single-node 백엔드야. 내부툴이나 작은 MVP를 오늘 바로 띄워 볼 팀이면 여기서 먼저 걸러 볼 수 있어.</description>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>whisper.cpp (위스퍼.cpp)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/whisper-cpp/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/whisper-cpp/</guid>
+        <description>Whisper를 로컬 장비나 자체 서버에 올릴 때 먼저 검토할 C/C++ 런타임이야.</description>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>gpt-image-2 (지피티 이미지 2)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gpt-image-2/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gpt-image-2/</guid>
+        <description>gpt-image-2는 OpenAI의 최신 GPT Image 계열 이미지 생성 모델이야. 텍스트와 참고 이미지를 받아 새 이미지를 만들거나 기존 이미지를 고치는 API 모델로 보면 돼.</description>
+        <pubDate>Mon, 20 Apr 2026 15:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>GPT Image(지피티 이미지)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gpt-image/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gpt-image/</guid>
+        <description>GPT Image는 OpenAI의 이미지 생성과 편집 모델 계열을 부르는 이름이야. gpt-image-2 같은 개별 모델 ID와 ChatGPT 이미지 기능, Responses API의 이미지 생성 도구를 구분해서 봐야 해.</description>
+        <pubDate>Mon, 20 Apr 2026 15:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>Manifest (매니페스트)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/manifest/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/manifest/</guid>
+        <description>Manifest는 에이전트와 AI 애플리케이션의 요청을 여러 모델 제공사 사이에서 라우팅하고, 실패 시 다른 모델로 넘김과 비용 추적을 한곳에 묶는 오픈소스 모델 라우터야.</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Nemotron-Personas-Korea (네모트론 페르소나스 코리아)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/nemotron-personas-korea/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/nemotron-personas-korea/</guid>
+        <description>NVIDIA가 공개한 한국어 합성 페르소나 데이터셋이야. 한국 사용자에게 맞는 에이전트 grounding, system prompt persona layer, 학습·도메인 데이터 씨앗으로 읽는 편이 맞아.</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+        <category>dataset</category>
+    </item>
+    <item>
+        <title>dataset(데이터셋)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/dataset/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/dataset/</guid>
+        <description>dataset은 AI 학습, 평가, 정제에 쓰도록 행, 열, 라벨, split, 라이선스를 묶어 관리하는 데이터 단위야.</description>
+        <pubDate>Sun, 19 Apr 2026 15:00:00 GMT</pubDate>
+        <category>concept</category>
+    </item>
+    <item>
+        <title>HyperFrames (하이퍼프레임스)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/hyperframes/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/hyperframes/</guid>
+        <description>HyperFrames는 프롬프트나 기획안을 HTML 장면으로 바꾼 뒤, 그 장면을 계속 손보며 다시 렌더하는 영상 프레임워크야.</description>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+        <category>project</category>
+    </item>
+    <item>
+        <title>Nemotron OCR v2 (네모트론 OCR v2)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/nemotron-ocr-v2/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/nemotron-ocr-v2/</guid>
+        <description>GPU 서버형 구조 보존 OCR이 정말 필요한지 먼저 가르는, 다국어 문서용 모델.</description>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+</channel>
+</rss>

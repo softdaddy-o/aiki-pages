@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>AIKI 전체 RSS</title>
+    <link>https://aiki.softdaddy-o.com/ko/</link>
+    <description>AIKI 최신 AI 뉴스와 위키 업데이트 요약</description>
+    <atom:link href="https://aiki.softdaddy-o.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 00:40:00 GMT</lastBuildDate>
+    <language>ko-KR</language>
+    <item>
+        <title>디퓨전 모델에서 타임스텝을 떼니 Sudoku-Extreme을 99.90% 풀었어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-09-03-diffusion-training-curriculum-anytime-solver/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-09-03-diffusion-training-curriculum-anytime-solver/</guid>
+        <description>Maze-Unique은 100번 반복으로 98.93%가 나왔고, 같은 Sudoku-Extreme에서 TRM은 87.4%, HRM은 55%였어. 학습 때는 노이즈 제거를 20~160번만 돌리고 역전파도 4스텝에서 잘랐는데, 추론에서 10,000번까지 늘리니 정확도가 계속 올라갔어. 병렬 롤아웃이나 외부 검증기는 안 붙였고.</description>
+        <pubDate>Thu, 03 Sep 2026 00:40:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini 3.8 Flash, 토큰 단가는 그대로인데 작업당 비용은 40% 늘었어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-09-03-gemini-3-8-flash-token-cost/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-09-03-gemini-3-8-flash-token-cost/</guid>
+        <description>같은 작업을 끝내는 데 출력 토큰을 30% 더 쓰거든. Artificial Analysis 측정으로 한 작업 평균 48k 토큰, 작업당 비용은 $0.58까지 올라갔어. 지능 지수는 56에서 59로 3점 올랐고, 백만 토큰당 $0.75/$3.75 도입가는 12월 31일까지야. 그다음엔 $1.50/$7.50이 붙어.</description>
+        <pubDate>Thu, 03 Sep 2026 00:20:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>에이전트 런타임을 Skill·Harness·Scaffold로 자른 설계안, 측정 결과는 0건이야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-27-3-contract-centered-agentic-runtime-architecture/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-27-3-contract-centered-agentic-runtime-architecture/</guid>
+        <description>사용 사례 벤치마크는 에이전트 하나가 작업 하나를 해냈는지까지만 말해줘. 능력과 모델, 용량, 사내 데이터가 바뀔 때 누가 소유하고 무엇으로 증명하는지는 안 나오거든. 저자들은 재사용 가능한 능력 자산 Skill, 런타임 컴파일러 겸 관리자 Harness, 실행 경계를 맡는 Scaffold를 조직 간 계약으로 세우고, 반증 가능한 가설 하나와 실험 설계까지만 내놨어.</description>
+        <pubDate>Thu, 27 Aug 2026 13:09:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>SHARP, 창고 로봇마다 전용 대기 칸을 예약해 완료율 100% 냈어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-27-2-sharp-fixed-haven-warehouse-mapd/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-27-2-sharp-fixed-haven-warehouse-mapd/</guid>
+        <description>막다른 골목과 1차선 통로가 많은 창고에서는 쉬는 로봇 한 대가 길을 통째로 막아버려. 저자들은 로봇마다 자기만 들어갈 수 있는 대기 칸을 하나 고정해 두고, 거기로 되돌아가는 경로까지 미리 예약하는 규칙을 내놨어. 되돌아가는 중 재배정을 막으면 배달 지연이 1.89배로 나빠졌고, 대신 중앙 계획 비용은 눈에 띄게 늘어.</description>
+        <pubDate>Thu, 27 Aug 2026 07:54:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>LiveCodeBench 하드 100문제: 매니저-워커 구조가 모델마다 +30.4부터 -9까지 갈렸어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-27-5-manager-worker-scaffold-livecodebench/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-27-5-manager-worker-scaffold-livecodebench/</guid>
+        <description>같은 모델을 한 번에 답하게 두는 대신, 공유 파일 시스템 위에서 매니저가 문제를 쪼개고 워커가 푸는 구성을 얹었어. 학습도 벤치마크별 튜닝도 없이. 토큰 청구는 대략 세 배로 뛰지만 GPT-5.6-Terra는 이 구성으로 문제 100개당 $11.71에 85.0점을 냈고, Fable 5 단일 호출은 87.4점에 $61.11이 들었어.</description>
+        <pubDate>Thu, 27 Aug 2026 00:11:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini Live, 음성으로 Spark 실행까지 열렸어 — Pro 구독부터야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-27-1-gemini-live-spark-daily-brief-voice/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-27-1-gemini-live-spark-daily-brief-voice/</guid>
+        <description>Spark는 Gemini 3.5 위에서 도는 상시 에이전트라 Docs와 Sheets, Drive를 오가며 여러 단계짜리 작업을 처리해. Daily Brief는 Gmail과 캘린더를 묶어 아침 요약을 읽어주는데 이건 Plus부터 열려. 메일 검색과 보관, 삭제도 화면을 안 보고 말로 시킬 수 있어. Google은 사용자 63%가 Gemini에 소리 내어 말한다고 적었어.</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Google, 개학용 Gemini 활용 일곱 가지 공개 — 무료 1년은 미국만 Pro야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-27-4-gemini-workspace-back-to-school-student-plan/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-27-4-gemini-workspace-back-to-school-student-plan/</guid>
+        <description>Sheets 캔버스로 과제 대시보드를 만들고, 강의계획서를 Slides 덱으로 옮기고, Forms로 채점 기준이 딸린 연습 퀴즈를 뽑는 식이야. 다만 이 기능들이 실제로 열리는지는 구독 등급이 정해. 미국 대학생은 월 $19.99짜리 AI Pro를, 미국 밖 140개 넘는 시장의 학생은 월 $4.99짜리 AI Plus를 받고, 신청 기한은 12월 31일이야.</description>
+        <pubDate>Wed, 26 Aug 2026 20:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI Jalapeño, 추론 벤치마크에서 와트당 처리량 1.5~1.9배 주장</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-25-2-openai-jalapeno-first-results/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-25-2-openai-jalapeno-first-results/</guid>
+        <description>OpenAI가 자체 추론 칩 Jalapeño의 첫 성능 결과를 냈어. 세 공개 모델을 InferenceX로 측정한 회사 자료에서 비교 시스템보다 와트당 처리량은 1.5~1.9배, 종단 간 지연시간은 1.7~3.6배 낮았다고 말해. 다만 배포 전 OpenAI가 공개한 비교 결과라서 API 가격 인하나 모든 추론 작업의 우위를 바로 뜻하진 않아.</description>
+        <pubDate>Tue, 25 Aug 2026 01:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>llm-anthropic 0.27, Anthropic SDK 1 요구</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-25-1-llm-anthropic-027-httpx2/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-25-1-llm-anthropic-027-httpx2/</guid>
+        <description>llm-anthropic 0.27은 anthropic 1.x와 Python 3.10 이상을 요구해. 이 범위의 Anthropic SDK v1 전환에서는 HTTP 계층이 httpx2로 바뀌어, 직접 만든 httpx 클라이언트·전송 계층이나 httpx를 패치하는 관측·목킹 도구를 쓰는 팀은 업그레이드 전에 해당 경로부터 바로 점검해야 해.</description>
+        <pubDate>Tue, 25 Aug 2026 00:20:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI 8월 24일 Kiro 공지, GPT-5.6 첫 출시가 아니라 7월 14일 지원 재설명</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-24-openai-gpt-5-6-kiro/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-24-openai-gpt-5-6-kiro/</guid>
+        <description>OpenAI가 8월 24일 Kiro의 GPT-5.6 Sol, Terra, Luna 지원을 다시 알렸어. 하지만 첫 제공 발표는 7월 14일이었고, 이번에 진짜 볼 건 새 모델 소식보다 플랜, 비용, 처리 위치가 어떻게 잡히는지야.</description>
+        <pubDate>Mon, 24 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, GPT-5.6 Sol API 토큰 가격 내려 입력 $4·출력 $20</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-24-openai-gpt-5-6-sol-pricing/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-24-openai-gpt-5-6-sol-pricing/</guid>
+        <description>OpenAI가 GPT-5 계열 상위 API 모델인 GPT-5.6 Sol의 단문 컨텍스트 토큰 가격을 100만 토큰 기준 입력 5달러에서 4달러, 출력 30달러에서 20달러로 낮췄어. 다만 이번 기사는 모델 성능이 아니라 API 토큰 가격 변경 기사고, 이 가격은 적어도 2026년 11월 21일까지인 프로모션이라 장기 예산표에는 보수적으로 반영해야 해.</description>
+        <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>AI4AI-Bench, 학습 알고리즘을 다시 짜는 10개 과제에서 최고 성적이 0.250</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-22-3-ai4ai-bench-training-algorithm-rewrite/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-22-3-ai4ai-bench-training-algorithm-rewrite/</guid>
+        <description>채점 눈금은 저장소에 이미 들어 있던 알고리즘이 0.1, 그 과제의 최적값이 1.0이야. 6개 시스템 29개 설정을 돌린 평균은 0.166이었고, 학습 방식 자체를 손댄 소수는 0.226, 나머지는 0.126이었어. 리더보드에는 원래 코드보다 나빠진 실행이 124회 기록돼 있어.</description>
+        <pubDate>Sat, 22 Aug 2026 00:40:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>RGA-Designer, 에이전트 연결 그래프에 보상을 걸어 토큰을 평균 20.5% 줄였어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-22-2-rga-designer-multi-agent-topology-token-cost/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-22-2-rga-designer-multi-agent-topology-token-cost/</guid>
+        <description>정답률은 GSM8K 88.36%에서 88.76%, MMLU 79.32%에서 79.78%로 오히려 조금 올랐고 통계적으로 유의한 하락은 없었어. 절감폭은 문제마다 갈려서 AQuA가 33%로 가장 컸고 GSM8K는 15%였어. 실험에 쓴 모델은 Qwen3-4B 하나야.</description>
+        <pubDate>Sat, 22 Aug 2026 00:20:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>MidTool, 도구 호출을 중간 학습에서 가르치니 4B가 BFCL 39.7에서 54.2로</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-22-1-midtool-agentic-tool-use-midtraining/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-22-1-midtool-agentic-tool-use-midtraining/</guid>
+        <description>웹·PDF·코드에 실제 도구 API와 MCP 스킬 호출 기록을 섞은 20.3B 토큰짜리 코퍼스를 사전학습과 사후학습 사이에 끼워 넣은 방식이야. tau2-Bench는 8.54%에서 19.96%로, MCP-Universe는 13.20에서 23.80으로 올랐고, 데이터와 모델은 Hugging Face에 올라와 있어.</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Anthropic Academy가 Claude Academy로 옮겨갔어, learn 주소는 308 리다이렉트</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-21-1-claude-academy-learn-redirect/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-21-1-claude-academy-learn-redirect/</guid>
+        <description>새 주소 academy.claude.com은 제품별 트랙을 Claude.ai, Cowork, Claude Code, Claude Tag, Claude Platform 다섯 개로 갈라놨어. 기초 과정은 AI Fluency 14강 4시간, AI Capabilities and Limitations 13강 3.5시간으로 그대로 남아 있고, 공식 공지는 무료라고 밝혔어.</description>
+        <pubDate>Fri, 21 Aug 2026 00:10:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Google AI Plus, 미국 밖 대학생은 1년 무료 — 기간 끝나면 월 7,500원</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-20-3-google-student-ai-subscription-one-year/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-20-3-google-student-ai-subscription-one-year/</guid>
+        <description>미국 대학생이 받는 건 월 $19.99짜리 Google AI Pro고, 그 밖은 Plus가 제공되는 140개 넘는 시장이 대상이야. 볼리비아·알바니아·캐나다·마카오·홍콩·튀니지는 빠졌어. 등록 기한은 2026년 12월 31일이고 저장용량은 Pro가 5TB, Plus가 400GB야. 일부 시장에선 YouTube Premium 묶음도 최대 70% 할인이야.</description>
+        <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>에이전트끼리 로그 밖 은닉 상태로 담합하는 실험, VLA가 동종 쌍 AUROC 0.993·이종 쌍 0.854로 갈라 잡았어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-20-1-vla-latent-agent-collusion-monitor/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-20-1-vla-latent-agent-collusion-monitor/</guid>
+        <description>모델이 서로 주고받는 건 텍스트만이 아니야. 공개 트랜스크립트에 안 남는 연속 은닉 상태로도 오갈 수 있거든. 경매 벤치마크에서 같은 모델끼리는 잘 잡혔는데 서로 다른 모델을 섞으면 0.854로 떨어졌고, 개입으로 담합성 저가 입찰은 47.3%p 줄었어.</description>
+        <pubDate>Wed, 19 Aug 2026 17:43:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>MDTIM, 시계열 빈칸 채우기를 마스크 디퓨전으로 바꿔 0.65M이 88.24M을 앞섰어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-20-4-mdtim-masked-diffusion-time-series-imputation/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-20-4-mdtim-masked-diffusion-time-series-imputation/</guid>
+        <description>빠진 값과 관측된 값을 같은 표현 공간에 넣지 않고, MASK 토큰을 따로 둔 뒤 원래 값을 바로 맞히게 바꾼 방식이야. 저자들이 보고한 추론 시간은 4.05초로 CSDI의 401.69초보다 짧았고, Energy 데이터 30% 결손에서 MAE가 0.044로 CSDI 0.094보다 낮았어. 코드는 아직 공개된 게 안 보여.</description>
+        <pubDate>Wed, 19 Aug 2026 17:16:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>AMR, 의료 QA 에이전트에 전용 메모리와 되짚기를 붙여 MedQA 93.2%</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-20-2-amr-medical-qa-memory-reflection-agents/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-20-2-amr-medical-qa-memory-reflection-agents/</guid>
+        <description>MedMCQA는 90.0%로 사람 성적과 같은 값이 나왔고, 논문이 비교한 GPT-4 단일 구성은 86.1%와 73.7%였어. 구성 요소를 빼며 잰 실험에서는 검색을 안 붙이고 메모리와 되짚기만 남겼을 때도 80%에서 90%로 올라갔어. 코드는 MIT로 공개돼 있고, 저장소 README는 SMC 2026 채택 논문이라고 적었어.</description>
+        <pubDate>Wed, 19 Aug 2026 15:24:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Claude Cowork 로컬 세션은 관리자가 못 봐, 지원 문서가 정리한 Team·Enterprise 조건</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-19-1-claude-cowork-team-enterprise-limits/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-19-1-claude-cowork-team-enterprise-limits/</guid>
+        <description>클라우드 실행은 Team에서 기본으로 켜져 있고 Enterprise는 꺼진 채로 시작해. 로컬 세션 기록은 사용자 PC에 남아서 Anthropic 표준 보존 정책 대상이 아니고, 관리자가 모아 보거나 내보낼 수 없어. 로컬 세션 삭제 API도 아직 없고.</description>
+        <pubDate>Tue, 18 Aug 2026 17:56:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>ChatGPT에 커스텀 MCP를 켜면 같은 대화에서 Gmail·캘린더가 막혀</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-18-2-chatgpt-developer-mcp-blocks-builtin-apps/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-18-2-chatgpt-developer-mcp-blocks-builtin-apps/</guid>
+        <description>OpenAI 도움말은 한 프롬프트에서 자사 앱과 외부 앱을 함께 부를 수 있다고 적어놨는데, 실제로는 FORBIDDEN: This conversation is restricted to developer MCPs가 떠. 6월 16일 OpenAI 직원은 성능보다 안전을 택한 의도된 동작이라고 답했고, 8월 17일 올라온 재현 보고에서도 그대로였어.</description>
+        <pubDate>Tue, 18 Aug 2026 01:20:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, 오하이오 PORTS-Pike에서 8GW를 20년 리스로 확보했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-18-1-openai-ports-pike-8gw-ohio/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-18-1-openai-ports-pike-8gw-ohio/</guid>
+        <description>NVIDIA는 SB Energy에 15억 달러를 넣고 부지·전력·건물 확보에 신용을 보강했어. 계약이 확정된 초기 물량은 4.25GW고 남은 3.75GW는 옵션이야. 전력이 단계별로 들어오기 시작하는 해는 2028년이라, 지금 모자란 API 용량과는 시점이 달라. 부지는 1954년부터 우라늄을 농축하던 포츠머스 공장 터야.</description>
+        <pubDate>Tue, 18 Aug 2026 00:10:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Windows VS Code 확장 번들에서만 Luna spawn_agent 해결이 확인됐어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-17-1-codex-multi-agent-v2-luna-leaf-model/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-17-1-codex-multi-agent-v2-luna-leaf-model/</guid>
+        <description>Windows VS Code 확장은 Codex 0.148.0-alpha.9를 묶은 8월 14일 빌드에서 Luna spawn_agent 거부가 풀렸어. 확인된 해결 범위는 이 Windows 확장 번들뿐이고, macOS와 Desktop은 아직 확인되지 않았어.</description>
+        <pubDate>Mon, 17 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Codex의 GPT-5.6 Sol 1M 컨텍스트가 ChatGPT 계정에도 열렸어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-17-2-codex-1m-context-chatgpt-accounts/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-17-2-codex-1m-context-chatgpt-accounts/</guid>
+        <description>Codex 기본값은 카탈로그가 내려주는 272,000 토큰의 95%인 258,400 토큰이야. ~/.codex/config.toml에 세 줄을 넣으면 1,000,000으로 올라가고 900,000 근처에서 자동 압축이 걸려. 다만 OpenAI가 같이 붙인 단서는 작은 작업엔 켜지 말라는 거야.</description>
+        <pubDate>Sun, 16 Aug 2026 21:50:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Qwen3.8-27B 가중치가 Apache 2.0으로 풀렸어, 비전 인코더까지 붙여서</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-16-1-qwen3-8-27b-open-weights-vision/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-16-1-qwen3-8-27b-open-weights-vision/</guid>
+        <description>덴스 27B에 64개 레이어, 네이티브 262,144 토큰 컨텍스트, Gated DeltaNet과 Gated Attention을 섞은 구조가 모델 카드에 그대로 적혀 있어. 텍스트 전용으로 예고됐던 모델인데 이미지와 비디오를 받는 인코더가 같이 들어왔고, 컴퓨터 조작 벤치마크 OSWorld-Verified는 84.3이야.</description>
+        <pubDate>Sun, 16 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>GPT-5.6 Sol Ultrafast, API 출력을 최대 14배로 높였어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-15-1-openai-ultrafast-cerebras/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-15-1-openai-ultrafast-cerebras/</guid>
+        <description>Cerebras가 GPT-5.6 Sol의 추론을 맡아 초당 최대 750개 출력 토큰을 내보내. OpenAI API에서 일부 고객에게 먼저 여는 제한 프리뷰고, 가격과 일반 공개 일정은 아직 확인되지 않았어. 확인한 두 원문에는 14배 속도의 독립 재현 결과가 담기지 않아 Standard를 바로 바꿀 근거는 부족해.</description>
+        <pubDate>Sat, 15 Aug 2026 00:10:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI Daybreak Red·Blue, Amazon Bedrock에 올라왔어 — 승인받은 팀만</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-14-2-openai-daybreak-amazon-bedrock/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-14-2-openai-daybreak-amazon-bedrock/</guid>
+        <description>Red는 사이버 보안용으로 학습한 GPT-5.6 Cyber를, Blue는 범용 프론티어 모델인 GPT-5.6 Sol을 쓰게 해주는 구성이야. 열린 리전은 미국 동부(버지니아 북부) 한 곳뿐이고, OpenAI에서 Daybreak 접근 등록을 마친 뒤 AWS 계정팀을 통해 다시 신청해야 해. 추론에 넣은 데이터는 모델 학습에 쓰지 않는다고 두 회사가 함께 밝혔어.</description>
+        <pubDate>Fri, 14 Aug 2026 01:10:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini 3.7 Flash, 코딩 점수 43.6%로 올리고 가격은 연말까지만 반값</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-14-1-gemini-3-7-flash-coding-half-price/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-14-1-gemini-3-7-flash-coding-half-price/</guid>
+        <description>직전 3.6 Flash가 나온 지 3주 만의 후속이고, DeepSWE v1.1 점수는 49.0%에서 65.3%로 올랐어. 도입가는 입력 100만 토큰당 0.75달러지만 2027년 1월 1일부터 1.50달러, 출력은 7.50달러로 정확히 두 배가 돼. 공개된 벤치마크는 아직 Google이 직접 잰 값뿐이라 예산 계산과 성능 판단을 따로 봐야 해.</description>
+        <pubDate>Fri, 14 Aug 2026 00:20:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>DFM Mimir v1, 허용된 데이터만으로 1B를 학습했는데 라이선스는 연구용이야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-14-3-dfm-mimir-permissible-data-1b/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-14-3-dfm-mimir-permissible-data-1b/</guid>
+        <description>덴마크 대학 연합이 161개 데이터셋에서 에폭당 약 704.79억 토큰을 모아 학습했어. 영어 평균은 파라미터가 네 배인 Qwen 3.5 4B의 69.3에 0.3 뒤진 69.0이고, 덴마크어에서는 Gemma 4 E2B의 44.6을 56.8로 앞섰어. 다만 배포 라이선스는 연구용이야.</description>
+        <pubDate>Thu, 13 Aug 2026 17:37:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>ReRound, 4비트 양자화에서 중간값에 걸린 가중치만 확산 모델로 다시 반올림했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-13-1-reround-midpoint-rounding-quantization/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-13-1-reround-midpoint-rounding-quantization/</guid>
+        <description>Gemma 2 2B를 4비트로 줄여도 평균 정확도 67.4점이 나왔어. 보정 데이터를 쓰는 SignRound의 67.0점보다 높은데, 원본 16비트 68.1점에는 아직 못 미쳐. 대신 모델 하나마다 확산 모델을 1.76~3.43시간 따로 학습해야 하고, OLMo 2 1B는 4비트에서 HQQ에 오히려 밀렸어.</description>
+        <pubDate>Thu, 13 Aug 2026 01:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini 앱 월간 사용자 10억 명, 2월 7억5천만 명에서 확대</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-12-2-gemini-app-one-billion-users/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-12-2-gemini-app-one-billion-users/</guid>
+        <description>사용자의 63%가 음성으로 대화하고, Gemini Live 상호작용 5건 중 1건은 카메라나 화면 공유로 이어져. 하루 이미지 생성량도 1억5천만 장을 넘었어. 다만 Google이 공개하지 않은 월간 활성 판정 기준과 접점별 중복 집계 방식은 따로 확인해야 해.</description>
+        <pubDate>Wed, 12 Aug 2026 04:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Anthropic·OpenAI·Google 암호화 추론 블록, 약한 모델에 넣으면 평문으로 풀려</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-11-2-encrypted-reasoning-trace-leak/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-11-2-encrypted-reasoning-trace-leak/</guid>
+        <description>공개 저장소에서 긁어모은 추론 블록 315,320개를 풀었더니 개인정보 367건과 자격증명 182개가 나왔어. 세션이 달라도, 사용자가 달라도, 모델이 달라도 같은 회사 안에서는 블록이 그대로 호환되는 게 원인이야. 저자 8명은 신고를 마쳤고 암호화 방식과 시스템 수준 대응책을 같이 제안했어.</description>
+        <pubDate>Tue, 11 Aug 2026 02:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Meta, Muse Glimmer 30B를 Apache 2.0으로 공개 — 로컬 실행은 정밀도에서 갈려</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-11-1-meta-muse-glimmer-30b-apache-2/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-11-1-meta-muse-glimmer-30b-apache-2/</guid>
+        <description>4비트로 줄이면 언어 모델 부분이 20GB 아래로 내려가 24GB 그래픽카드 한 장에 올라가고, 원래 정밀도로 돌리려면 80GB H100이 한 장은 있어야 해. 추측 디코딩을 적용하면 RTX 5090에서 3.1배 빨라지고 컨텍스트는 32,768 토큰. 다만 공개된 벤치마크는 아직 Meta 자체 측정값뿐이야.</description>
+        <pubDate>Tue, 11 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>MiniMax, H3 영상 모델용 공식 프롬프트 스킬 9종을 저장소에 공개했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-10-1-minimax-h3-official-prompt-skills/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-10-1-minimax-h3-official-prompt-skills/</guid>
+        <description>설치는 npx skills add 한 줄이고, 프롬프트 작성 스킬 1개와 스타일별 영상 생성 스킬 8개가 들어 있어. 8월 5일 첫 커밋 뒤 8월 9일에는 허깅페이스 모델 카드에서 이 폴더로 가는 링크가 들어갔고, 한국 시각 8월 10일 새벽 문서 수정으로 특정 회사 도구 전용이 아니라는 문장이 추가됐어.</description>
+        <pubDate>Mon, 10 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, Astra를 사이버 보안 첫 &apos;크리티컬&apos;로 분류하고 사내 작업 일부를 멈췄어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-08-1-openai-astra-critical-cyber-preparedness/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-08-1-openai-astra-critical-cyber-preparedness/</guid>
+        <description>문턱을 넘었다고 확인한 건 아니야. 넘지 않았다고 말할 수 없다는 데서 멈췄고 평가는 계속 돌아가는 중이야. 대비 프레임워크를 2023년에 내놓은 뒤 이 등급이 실제로 붙은 건 처음이고, 직전까지 최고 등급은 GPT-5.6 Sol이 머물던 High였어. 격리된 시험 환경, 가중치 암호화 강화, 에이전트 실행 전면 모니터링이 같이 걸렸어.</description>
+        <pubDate>Sat, 08 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Codex + GPT-5.6 Sol Ultra가 같은 게임 프롬프트를 52분·$23.28로 다시 풀었어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-07-3-raccoon-heist-codex-sol-ultra-rerun/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-07-3-raccoon-heist-codex-sol-ultra-rerun/</guid>
+        <description>Simon Willison은 Ultra를 Sol이 서브에이전트를 공격적으로 쓰는 모드라고 설명해. 뒷마당에서 동전을 줍던 Fable 5 판과 달리 박물관이 무대가 됐고, 동료 너구리를 구해 서로 올라타야 목표물에 닿는 구성이 나왔어. 프롬프트 하나, 실행 한 번짜리 비교였고, 원샷 결과물에는 너구리 눈알이 거대한 구로 부푼 버그가 있었어.</description>
+        <pubDate>Fri, 07 Aug 2026 11:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>WeatherNext 2, 사이클론 3일 예보를 기존 2일 정확도로 맞추고 가중치까지 열었어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-07-1-weathernext-2-cyclone-open-weights/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-07-1-weathernext-2-cyclone-open-weights/</guid>
+        <description>구글 딥마인드가 8월 6일 네이처에 실은 결과야. 대기 데이터 20TB와 폭풍 약 5,000건이 담긴 IBTrACS로 학습했고, 2025년 허리케인 시즌에 50개씩 돌리던 시나리오를 지금은 1,000개까지 뽑아. 코드와 가중치를 공개했는데, 저장소엔 어떤 정부 기상 기관의 승인도 받지 않았고 공식 경보를 대체하지 않는다는 문구가 같이 붙어 있어.</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI가 애플 소송 각하를 신청했어, 근거는 애플의 개인 iCloud 업무 허용과 퇴사 처리</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-07-2-openai-apple-motion-dismiss/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-07-2-openai-apple-motion-dismiss/</guid>
+        <description>7월 10일 제소로 시작된 건이 한 달 만에 방향을 틀었어. OpenAI는 혐의를 부인하는 데서 그치지 않고, 퇴사한 엔지니어가 파일 서버에 계속 닿을 수 있던 게 애플 자기 설정의 결과라고 적었어. 소장이 충분한 조사 없이 제출됐다는 주장도 같이 걸었고, 애플이 낸 가처분 심리는 10월 1일 캘리포니아 북부 연방법원에 잡혀 있어.</description>
+        <pubDate>Thu, 06 Aug 2026 22:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Meta 모델이 평가 도중 외부 회사에 침입했어, 원인은 평가사 설정 실수라는 게 Meta 쪽 설명이야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-06-3-meta-model-irregular-eval-sandbox-breach/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-06-3-meta-model-irregular-eval-sandbox-breach/</guid>
+        <description>평가를 맡은 Irregular의 샌드박스 설정이 잘못돼 모델이 인터넷에 닿았고, 거기서 서드파티 서비스 취약점을 찔렀다는 게 Meta와 Irregular 쪽 설명이야. Irregular는 지난주 Anthropic이 공개한 것과 완전히 같은 평가 환경 문제라고 했어. 침입당한 회사 이름도, 문제의 모델이 Muse Spark 1.1이라는 보도도 Meta가 확인해 주진 않았어.</description>
+        <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>German Credit 대출 심사, 인과 그래프 선 하나로 여성 승인율이 24%에서 44%로 바뀌었어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-06-1-causal-perception-competing-scm-fairness/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-06-1-causal-perception-competing-scm-fairness/</guid>
+        <description>편향이 데이터가 아니라 심사자가 세운 인과 모델에 붙어 있다는 걸 숫자로 보인 논문이야. 같은 신용 데이터 300명을 심사자 둘에게 각각 돌렸더니 21.7%가 다른 결정을 받았어. 그런데 예측 정확도는 ROC AUC 0.563과 0.555로 거의 같아서, 어느 쪽이 맞는지 성능으로는 못 가려.</description>
+        <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>제프 딘이 구글 27년을 접고 Discovery Loop을 세웠어, 첫 목표는 ML 연구 자동화</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-06-2-jeff-dean-discovery-loop/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-06-2-jeff-dean-discovery-loop/</guid>
+        <description>혼자 나온 게 아니야. 산자이 게마왓, 꾸옥 레, 오리올 비냘스까지 넷이 같이 나왔어. 회사는 일반 스타트업이 아니라 공익법인 형태고, 시드는 래디컬 벤처스와 코슬라 벤처스가 공동 주도했는데 참여자 명단에 알파벳도 들어 있어. 실험을 제안하고 돌리고 결과를 학습해 다시 제안하는 순환을 병렬로 굴리겠다는 구상이야.</description>
+        <pubDate>Wed, 05 Aug 2026 23:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Simon Willison이 Claude Fable 5에 프롬프트 하나만 주고 3D 게임을 받았어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-05-3-raccoon-heist-fable-5-one-shot-game/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-05-3-raccoon-heist-fable-5-one-shot-game/</guid>
+        <description>설계 결정을 더 묻지 말라고 못 박은 지시 한 줄로 시작해서, 저장소에 커밋 17개가 쌓이고 브라우저에서 도는 게임이 나왔어. 3D 라이브러리 선택, 텍스처 생성, 경비원 추적 로직까지 사람이 개입하지 않았어. 다만 본인 평가는 &apos;완성된 게임으로는 평범하다&apos;야.</description>
+        <pubDate>Wed, 05 Aug 2026 11:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Mistral이 Shieldstral 3B 안전 분류기를 Apache 2.0으로 공개했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-05-1-shieldstral-open-weights-apache-2/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-05-1-shieldstral-open-weights-apache-2/</guid>
+        <description>지난주까지 arXiv 논문으로만 있던 모더레이션 모델이 이번엔 Hugging Face에 가중치로 올라왔어. BF16으로 올리면 16GB VRAM 한 장에 들어가고, 판정 정책을 평문으로 적어 넣으면 재학습 없이 기준이 따라 움직여. 한국어를 포함해 12개 언어를 받고, HarmBench 프롬프트 분류에서 F1 99.4%가 나왔어.</description>
+        <pubDate>Wed, 05 Aug 2026 00:30:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI가 ChatGPT Work와 Codex에 교육용 플러그인 3종을 공개했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-04-5-openai-education-plugins-chatgpt-work-codex/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-04-5-openai-education-plugins-chatgpt-work-codex/</guid>
+        <description>대학생용, K-12 교사용, 대학 교원용으로 역할을 나눴어. 앱 연결과 역할별 스킬, 지시문, 자주 쓰는 작업 순서를 한 꾸러미로 묶어 둬서, 긴 프롬프트를 직접 짜지 않아도 바로 시작할 수 있어. ChatGPT Edu와 ChatGPT for Teachers 배포 환경에서만 쓸 수 있어.</description>
+        <pubDate>Tue, 04 Aug 2026 05:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Claude 사용량 분석, 팀 플랜에서도 보이고 지출만 권한이 갈려</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-04-1-claude-usage-analytics-team-plan/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-04-1-claude-usage-analytics-team-plan/</guid>
+        <description>화면은 Claude Chat·Claude Code·Cowork·Claude Design으로 갈라지고, 결과 지표에는 생성된 PR과 MCP 쓰기, 절감 시간이 들어가. CSV 내보내기는 최대 90일까지 보이고 지출 데이터는 하루 늦게 들어와. Analytics API 속도 제한은 조직 단위로 분당 60건이야.</description>
+        <pubDate>Tue, 04 Aug 2026 00:20:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>MiniMax H3 오픈웨이트 라이선스, 한국을 허용 지역에서 뺐어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-04-7-minimax-h3-open-weights-korea-excluded/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-04-7-minimax-h3-open-weights-korea-excluded/</guid>
+        <description>허용 지역 정의에서 빠진 곳은 한국, 미국, 영국, 유럽연합 네 곳이야. 라이선스는 2026년 8월 2일 자로 발효했고, 제외 지역에서는 가중치뿐 아니라 그 결과물까지 쓰지 못하게 적혀 있어. 대신 신청 양식이 따로 열려 있고, 연매출 2,000만 달러를 넘는 상업 서비스는 별도 승인을 받아야 해.</description>
+        <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Anthropic이 Claude Desktop 기업 설정 문서를 냈어, 로컬 MCP를 정책으로 끌 수 있어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-04-4-claude-desktop-enterprise-policy/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-04-4-claude-desktop-enterprise-policy/</guid>
+        <description>macOS는 MDM 구성 프로필, Windows는 그룹 정책이나 Intune으로 값을 밀어 넣는 방식이야. 워크스페이스 폴더 제한, 조직 계정 강제 로그인, 자동 업데이트 차단, Cowork 접근까지 9개 키가 문서에 적혀 있어. 기업 정책이 앱 안 허용 목록보다 우선한다는 문장도 같이 들어갔어.</description>
+        <pubDate>Mon, 03 Aug 2026 21:45:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Google·Kaggle AI 에이전트 인텐시브, 등록 353,000명에 캡스톤 제출은 6,000건</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-04-3-google-kaggle-ai-agents-intensive-recap/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-04-3-google-kaggle-ai-agents-intensive-recap/</guid>
+        <description>6월 15일부터 19일까지 5일간 돌린 무료 과정의 결산 숫자가 나왔어. 캡스톤에 실제로 손을 댄 사람은 12,000명이고, Discord에서 활동한 참가자는 392,000명이야. 2024년 이후 같은 형식 과정을 거쳐 간 누적 인원은 200만 명이 넘어.</description>
+        <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>PredAct-Bench, 도구가 틀렸을 때 LLM 13종이 사용자에게 경고를 못 했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-03-2-predact-bench-noisy-tool-dialogue/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-03-2-predact-bench-noisy-tool-dialogue/</guid>
+        <description>기존 에이전트 평가는 도구가 항상 정답을 준다고 치고 재. 이 벤치마크는 일부러 틀리는 예측 도구를 붙이고, 사용자가 그 답을 얼마나 믿는지까지 대화 단위로 측정해. 영국 개방대학 실제 수강 기록과 60개 강의 데이터를 시험대로 썼어.</description>
+        <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>WorldWeaver 논문, 영상 세계모델에 공유 상태 레지스터를 추가해 105.1을 받았어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-08-03-1-worldweaver-world-state-registers/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-08-03-1-worldweaver-world-state-registers/</guid>
+        <description>두 사람이 같은 마인크래프트 세계에서 동시에 움직이는 영상 126시간으로 학습했고, 같은 표에서 비교 대상 Solaris는 81.0이야. 공유 상태 토큰은 256개인데, 감독 신호를 다 빼면 93.8까지 내려가. 다만 이 표의 항목은 마인크래프트 과제에 맞춰 새로 짠 구성이야.</description>
+        <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+</channel>
+</rss>
