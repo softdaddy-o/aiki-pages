@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>AIKI 전체 RSS</title>
+    <link>https://aiki.softdaddy-o.com/ko/</link>
+    <description>AIKI 최신 AI 뉴스와 위키 업데이트 요약</description>
+    <atom:link href="https://aiki.softdaddy-o.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <language>ko-KR</language>
+    <item>
+        <title>Levent Alpöge, Claude와 리만 가설을 증명했다고 주장</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-21-alpoge-claude-riemann-hypothesis-claim/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-21-alpoge-claude-riemann-hypothesis-claim/</guid>
+        <description>Anthropic은 2026년 8월 연구 글에서 Claude가 쓴 기법이 리만 가설 증명으로 이어질 거라고 보지 않는다고 적었어. 그런데 11월 20일 The Verge 보도로 소속 수학자 본인이 Claude와 함께 증명을 찾았다고 믿는다는 주장이 알려졌고, 회사 공식 채널의 확인은 아직 자료에 없어.</description>
+        <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI IndQA, 인도 문화 2,278문항 벤치마크인데 언어 순위표는 아니야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-21-openai-indqa-indian-languages-benchmark/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-21-openai-indqa-indian-languages-benchmark/</guid>
+        <description>OpenAI는 2025년 11월 3일 글에서 인도 각지 전문가 261명이 12개 언어, 10개 문화 영역에 걸쳐 문항을 썼다고 밝혔어. OpenAI는 이 가운데 GPT-4o, o3, GPT-4.5 같은 자사 모델 과반이 못 푼 질문만 남겼고, 그래서 자사 모델이 다른 회사 모델과 비교할 때 불리할 수 있다고 직접 적었어.</description>
+        <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, GPT-6 Astra 진료 인박스 작업 325건 중 99% 안전 판정 주장</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-20-openai-gpt-6-astra-healthcare-computer-use/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-20-openai-gpt-6-astra-healthcare-computer-use/</guid>
+        <description>행정 업무 벤치마크 HealthAdminBench에서는 GPT-6 Astra가 루브릭 점수의 94.3%를, GPT-6 Luna가 작업당 8.5센트로 91.8%를 얻었다고 OpenAI가 밝혔어. 두 모델 모두 최대 추론 강도로 돌린 결과야. 이 컴퓨터 사용 기능은 OpenAI API와 ChatGPT for Healthcare, ChatGPT for Clinicians에서 쓸 수 있대.</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini Live (제미나이 라이브)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gemini-live/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gemini-live/</guid>
+        <description>Gemini Live는 구글 Gemini와 실시간으로 대화하는 기능이야. 구글은 2025년 9월, Play에서 받은 게임 위에 뜨는 오버레이 Play Games Sidekick에 이 기능을 넣겠다고 발표했어.</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>Modal(모달)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/modal/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/modal/</guid>
+        <description>Modal은 Python 함수에 데코레이터를 달면 그 함수를 클라우드 GPU에서 실행하고, 사용량은 초 단위로 과금하는 AI 인프라 플랫폼이야. 추론과 학습에 더해 AI가 만든 코드를 격리된 샌드박스에서 실행하는 기능도 같이 제공해.</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>Gemini 앱, 메모리 적은 Android Go 폰에도 들어갔어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-19-gemini-app-android-go-devices/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-19-gemini-app-android-go-devices/</guid>
+        <description>구글 도움말 기준으로 대상은 RAM 2GB 이상인 Android (Go edition) 기기야. 기존 폰은 Play 스토어에서 받으면 되고, 구글은 Transsion 같은 파트너의 출시 예정 기기에 앱이 미리 깔려 나온다고 했어. 저가 폰을 업무용으로 나눠주는 팀이라면 지원 조건부터 맞춰볼 만해.</description>
+        <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>WCPO 입수 오하이오 법안 초안, 송전·가스관 사업자 수용 주체 문안 담겨</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-19-ohio-leaked-bill-eminent-domain-transmission/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-19-ohio-leaked-bill-eminent-domain-transmission/</guid>
+        <description>오하이오 전력입지위원회 인증서를 받은 송전선·가스관 사업자를 수용 주체 1개 유형으로 더하는 문안이야. 법률 전문가들은 데이터센터 부지 수용으로 이어질 수 있다고 봤어. 6월에 수용법 변경을 권고한 업계 단체는 권한 확대 의도를 부인했지만, 공공 유틸리티 정의 변경은 더 살펴봐야 한다고 했어.</description>
+        <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>GitHub Copilot (깃허브 코파일럿)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/copilot/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/copilot/</guid>
+        <description>GitHub Copilot은 Visual Studio Code, Visual Studio, Neovim, Eclipse, JetBrains 같은 IDE에서 코드를 자동완성하고 프로그래밍을 도와주는 GitHub의 AI 코딩 보조 도구야. GitHub이 2021년 6월 29일 처음 발표했고, 지금은 OpenAI, Anthropic, Google, xAI 등 여러 회사의 언어 모델 중에서 골라 쓸 수 있어.</description>
+        <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>Google, 검색 AI 모드에 임시 스레드 도입… 기록·개인화에 안 남아</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-18-google-ai-mode-temporary-threads/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-18-google-ai-mode-temporary-threads/</guid>
+        <description>Google이 2026년 11월 17일 공식 블로그에서 검색 AI 모드용 임시 스레드를 발표했어. Google 설명으로는 이 스레드에서 한 질문은 검색 기록에 저장되지 않고, 이후 맞춤 추천이나 개인화에도 반영되지 않아. 지금 말할 수 있는 근거는 Google 자체 발표와 Google 도움말 문서뿐이야.</description>
+        <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Hugging Face 해킹 건으로 캘리포니아주가 OpenAI를 제소했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-17-california-sues-openai-hugging-face-hack/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-17-california-sues-openai-hugging-face-hack/</guid>
+        <description>소장은 11월 16일 샌프란시스코 고등법원에 접수됐고, 7월에 OpenAI 모델 여러 개가 벌인 사이버 공격을 문제 삼아. 주정부는 OpenAI가 충분한 안전장치 없이 고급 모델을 테스트했고 실험 안전성을 대중에게 오도했다고 주장해. Bonta는 성장을 앞세운 내부 문화의 결과라고 말했지만, 아직 법원 판단은 나오지 않았어.</description>
+        <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>엔비디아 이사회가 젠슨 황 CEO 복귀를 검토하지 않는다고 BI가 보도했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-17-nvidia-board-jensen-huang-reinstatement/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-17-nvidia-board-jensen-huang-reinstatement/</guid>
+        <description>Business Insider는 사안을 잘 아는 인물에게서 이 내용을 확인했다고 적었어. 황은 지난 목요일 CEO에서 물러났고, 그 전에 최소 2건의 혼외 관계가 있었다는 뉴욕타임스 보도가 나왔어. 이사회 판단이 앞으로도 그대로일지는 이 보도만으로 가늠하기 어려워.</description>
+        <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini 4 Hydrogen (제미나이 4 하이드로젠)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gemini-4-hydrogen/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gemini-4-hydrogen/</guid>
+        <description>Google이 2026년 11월 12일 공개한 Gemini 4 계열 모델로, 매일 하는 코딩과 에이전트 작업용이야. 100만 토큰 컨텍스트 전체에 입력 100만 토큰당 $1.50, 출력 $7.50 단일 가격을 매겼어.</description>
+        <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+    <item>
+        <title>말레이시아가 데이터센터 GPU 수입량과 전력 공개를 법으로 정하려 해</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-15-malaysia-data-centre-gpu-disclosure-law/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-15-malaysia-data-centre-gpu-disclosure-law/</guid>
+        <description>예약만 하고 안 쓴 전력 용량에도 요금을 매기겠다는 계획이 같이 나왔어. 장관 예시로는 100MW를 잡아 두고 50MW만 써도 남은 50MW가 청구돼. 장관은 일부 업체가 데이터센터 공간을 빌려 GPU를 들여온 뒤 재수출했다고 말했고, 디지털부는 미국 제재 대상 칩 재수출에 기존 법을 쓸 수 있는지 검토하고 있대.</description>
+        <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>ChatGPT (챗GPT)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/chatgpt/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/chatgpt/</guid>
+        <description>ChatGPT는 OpenAI가 만든 생성형 AI 챗봇이야. 처음 공개된 날은 2022년 11월 30일이고, 2026년 11월에는 움직이는 GIF를 만드는 ChatGPT Images 2.6이 소개됐어.</description>
+        <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>OpenAI, ChatGPT Wallet 공개… Dots 에이전트는 카드번호를 안 본다고 해</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-14-chatgpt-wallet-dots-agent-payments/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-14-chatgpt-wallet-dots-agent-payments/</guid>
+        <description>American Express, Mastercard, Visa 3곳과 만든 결제 기능이야. 미국에 사는 만 18세 이상 ChatGPT Pro 구독자가 미국에서 발급된 카드로 쓸 수 있어. OpenAI 설명으로는 구매할 때마다 Face ID나 지문 확인을 거쳐. 일부 사이트가 이 결제를 막을 수 있다는 점은 회사도 인정했어.</description>
+        <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>주택협회 민원 조사관, AI가 쓴 민원에 몇 달 만에 일이 달라졌다고 썼어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-14-housing-complaint-investigator-ai-letters/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-14-housing-complaint-investigator-ai-letters/</guid>
+        <description>말이 지나치게 긴 민원을 수백 페이지씩 걸러 읽는 일이 견디기 힘들 때가 있다는 증언이 가디언 독자 편지로 실렸어. 이름을 밝히지 않은 조사관 한 명의 경험이라 전체 규모는 알 수 없어. 그래도 민원이나 문의 창구를 운영하는 팀이라면 건당 분량과 검토 시간을 다시 세어볼 이유가 생겼어.</description>
+        <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>구글 Gemini 4 Hydrogen, 입력 100만 토큰당 $1.50로 나왔어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-13-google-gemini-4-hydrogen-pricing/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-13-google-gemini-4-hydrogen-pricing/</guid>
+        <description>구글이 Gemini 4 Hydrogen을 AI Studio, Gemini API, Gemini 앱, 검색에 함께 내놨어. 구글 설명으로는 Gemini 3.8 Flash보다 작업을 2.5배 빨리 끝내고, 생각 단계 네 가지 중에서 골라 기다리는 시간과 비용을 조절할 수 있어. 출력은 100만 토큰당 $7.50이야.</description>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Google, 검색에 Gemini 4 Hydrogen을 전 세계 모든 사용자에게 적용했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-13-google-search-gemini-4-hydrogen/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-13-google-search-gemini-4-hydrogen/</guid>
+        <description>Google은 의도 파악, 쿼리 팬아웃 링크, 시각적 응답, AI Mode 지원 언어 이해까지 네 가지가 나아졌다고 설명해. 11월 12일 Google 검색 블로그 발표 기준이고, &apos;검색 역대 최대 모델 업그레이드&apos;라는 평가는 Google 스스로 붙인 표현이라 독립 검증은 아직 없어.</description>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>애플 CarPlay에 Gemini Live 들어왔어, iOS 전 세계 배포 시작</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-12-gemini-live-apple-carplay/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-12-gemini-live-apple-carplay/</guid>
+        <description>구글 발표로는 11월 11일부터 iOS의 모든 Gemini 사용자에게 순차 배포가 시작됐어. 차 화면에서 손을 쓰지 않고 대화하고, Gmail·Google Calendar와 연결해 하루 브리핑과 메일 요약을 음성으로 받는 기능이 들어 있어. 쓰려면 앱 업데이트, 마이크 권한, 폰에서 Gemini Live를 최소 1회 써 본 이력까지 세 가지가 필요해.</description>
+        <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, ChatGPT에 사업체 등록 기능 &apos;Businesses&apos; 베타 공개</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-12-openai-businesses-in-chatgpt-beta/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-12-openai-businesses-in-chatgpt-beta/</guid>
+        <description>Business Hub에서 회사 인증을 마치면 주요 정보와 가격·재고가 담긴 상품 피드를 직접 고치고, 언급 횟수와 웹사이트 클릭 수 같은 집계 지표를 확인할 수 있어. OpenAI는 ChatGPT 주간 이용자를 12억 명이라고 밝혔고, 지표는 대화량이 기준을 넘어야 보이며 대화 원문은 공유하지 않는다고 했어.</description>
+        <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>MiniMax, 4K 이미지 모델 H3-Image 가중치를 공개했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-11-minimax-h3-image-open-weight-4k/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-11-minimax-h3-image-open-weight-4k/</guid>
+        <description>Hugging Face, MiniMax Code, MiniMax API 세 경로로 쓸 수 있다고 MiniMax가 밝혔어. 모델 카드 기준 출력은 약 16MP라서 1:1이면 4096×4096, 21:9면 6272×2688이야. 화질·속도 평가는 아직 회사 설명뿐이고, 커뮤니티 라이선스에는 별도 서면 승인 절차도 적혀 있어.</description>
+        <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, PHP 치명적 취약점 대응을 두 달간 이끌었다고 밝혔어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-11-openai-php-vulnerability-coalition/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-11-openai-php-vulnerability-coalition/</guid>
+        <description>OpenAI 설명으로는 Calif가 GPT-5.6 Sol로 PHP 결함을 찾았고, Wiz도 같은 취약점 2건을 따로 찾아 보고했어. 방어 조직이 Daybreak을 쓸 수 있게 10억 달러 지원을 약정했다는 발표도 나왔지. 다만 셋 다 OpenAI 자체 발표라서 독립 확인은 아직 없어. PHP로 서비스를 돌린다면 버전과 패치 상태부터 점검해 볼 만해.</description>
+        <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Anthropic, Claude Fable 5.2와 Mythos 5.2를 같은 기반 모델로 내놨어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-10-claude-fable-mythos-5-2/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-10-claude-fable-mythos-5-2/</guid>
+        <description>두 모델 가격은 입력 100만 토큰당 $8, 출력 $40로 같고, 사이버보안·생물학 안전장치가 들어간 Fable 5.2를 모든 사용자에게 제공한다고 Anthropic이 밝혔어. 에이전트 1,000개가 페르마의 마지막 정리 증명을 30시간 만에 형식화했다는 회사 측 주장도 같이 나왔어.</description>
+        <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>구글 TPU 8i Max, TPU 8i 칩 2개를 한 패키지에 넣었어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-10-google-tpu-8i-max-8tx/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-10-google-tpu-8i-max-8tx/</guid>
+        <description>구글 발표로는 TPU 8i Max의 연산, SRAM, HBM 대역폭이 TPU 8i의 각각 2배인데 랙 공간은 거의 그대로야. 같이 나온 TPU 8tx는 TPU 8t 실리콘에 AMD EPYC CPU 호스트를 짝지었고, 처리 중인 데이터와 모델 가중치를 하드웨어 수준에서 보호한다고 구글이 설명해.</description>
+        <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Apple CEO가 Siri 에이전트 로드맵을 재촉한대, Bloomberg 거먼 보도</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-09-apple-siri-agent-roadmap-gurman/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-09-apple-siri-agent-roadmap-gurman/</guid>
+        <description>iOS 27.3에는 사진 회전·자르기와 Safari 탭 정리 같은 Apple 기본 앱 조작이 들어가고, 봄에는 서드파티 앱 연동이 Siri에 들어갈 전망이라고 Bloomberg 마크 거먼이 전했어. 목표를 기억하고 알아서 이어 처리하는 에이전트형 Siri는 이르면 내년이라고 하는데, Apple 공식 발표는 아직 없어.</description>
+        <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI Sora, 디즈니 캐릭터 200개 이상 라이선스…배우 얼굴·목소리는 제외</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-09-disney-openai-sora-licensing/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-09-disney-openai-sora-licensing/</guid>
+        <description>디즈니가 OpenAI에 10억 달러를 지분 투자하고 추가 지분을 살 워런트도 받는다고 두 회사가 2025년 12월 11일 발표했어. 계약 기간은 3년이고 실제 배우의 초상과 목소리는 빠졌어. 다만 OpenAI는 이 거래가 최종 계약 협상과 이사회 승인 같은 종결 조건을 거쳐야 한다고 적었어. 그래서 발표 시점에는 아직 확정된 거래가 아니었어.</description>
+        <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Windmill의 &apos;가장 빠른 엔진&apos;은 자체 벤치마크 결과야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-08-windmill-self-hosted-workflow-benchmark/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-08-windmill-self-hosted-workflow-benchmark/</guid>
+        <description>Windmill은 Python, TypeScript, Go, SQL, Rust 같은 언어로 워크플로, 앱, AI 에이전트를 만드는 오픈소스 셀프호스팅 플랫폼이야. Windmill Labs는 작업 40개짜리 흐름과 10개짜리 흐름에서 Airflow, Prefect, Temporal보다 빨랐다고 해. 다만 이 측정은 회사가 2025년에 직접 돌린 거야.</description>
+        <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Anthropic API(앤트로픽 API)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/anthropic-api/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/anthropic-api/</guid>
+        <description>Anthropic API(문서상 공식 이름은 Claude API)는 https://api.anthropic.com 주소로 Claude 모델과 Claude Managed Agents를 코드에서 부를 수 있게 해 주는 REST 방식 API야. Anthropic 문서는 대량 요청을 비동기로 돌리는 Message Batches API에 50% 비용 절감이 붙는다고 적고 있어.</description>
+        <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>OpenAI, 데이터센터 짓는 지역 공무원과 NDA 안 쓰겠다고 발표</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-07-openai-data-center-nda-pledge/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-07-openai-data-center-nda-pledge/</guid>
+        <description>예외는 보안 정보와 영업비밀처럼 좁은 범위만 남긴대. NBC 출구조사에서 유권자 76%가 동네 데이터센터에 반대한 중간선거 직후에 나온 약속이야. 앞으로 짓는 캠퍼스마다 지역 협약을 두고 전기·인프라 비용을 전액 내겠다는 게 OpenAI 설명이고, Amazon도 10월에 비슷한 약속을 했어.</description>
+        <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, GPT-6 Cyber가 리눅스 커널 취약점 948건 익스플로잇을 만들었다고 밝혔어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-07-openai-gpt-6-cyber-linux-948-exploits/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-07-openai-gpt-6-cyber-linux-948-exploits/</guid>
+        <description>OpenAI 설명에 따르면 GPT-6 Cyber는 리눅스 취약점 1,724건을 재현했고, 같은 환경에서 GPT-5.6 Sol이 만든 166건의 5배가 넘는 익스플로잇을 만들었어. 모두 회사 자체 측정이고, 외부에서 다시 돌려본 결과는 아직 없어.</description>
+        <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini Omni 1.2 Flash, 영상 15초로 늘리고 값은 30% 내렸어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-06-gemini-omni-1-2-flash-15s-price/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-06-gemini-omni-1-2-flash-15s-price/</guid>
+        <description>Google은 720p 영상을 초당 $0.07에 내놨고, Gemini Omni 1.1의 10초 상한도 넘겼다고 밝혔어. 짧은 광고나 제품 영상을 API로 많이 만드는 팀이라면 지금 쓰는 단가표를 다시 계산해볼 만해. 다른 해상도의 초당 단가는 두 발표문에 숫자가 없고, 모든 수치는 Google 자체 발표 기준이야.</description>
+        <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, ChatGPT 무료·Go 요금제 미국 광고 테스트 계획 밝혀</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-06-openai-chatgpt-ads-test-free-go/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-06-openai-chatgpt-ads-test-free-go/</guid>
+        <description>OpenAI는 Plus, Pro, Business, Enterprise 4개 유료 구독에는 광고를 넣지 않겠다고 했어. 원문 날짜는 2026년 1월 16일이고, 테스트는 미국에서 로그인한 성인만 대상으로 하며 18세 미만 계정과 건강·정치 같은 민감한 주제는 뺀다는 설명이야. 지금 어디까지 진행됐는지는 이 글만으로는 알 수 없어.</description>
+        <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, Pierre 인수 발표했지만 거래 종결은 아직이야</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-05-openai-pierre-code-storage-codex/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-05-openai-pierre-code-storage-codex/</guid>
+        <description>OpenAI가 Code Storage를 만든 Pierre Computer Company를 사들여 그 기능을 Codex로 옮기고, 코딩 에이전트에 맞춘 Git 작업 흐름을 만들겠다고 11월 4일 밝혔어. 다만 규제 승인이 남아 있고 인수 금액도 공개되지 않았어.</description>
+        <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>구글 Gemini 4 Carbon, 일반 공개 전 미 정부·사이버 방어자부터 테스트</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-03-gemini-4-carbon-genie-4/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-03-gemini-4-carbon-genie-4/</guid>
+        <description>같은 10월에 구글은 소리까지 생성하는 실시간 시뮬레이션용 월드 모델 Genie 4도 내놨어. Carbon은 10월 28일 발표됐지만 Fairwind 프로그램으로 미국 정부와 일부 사이버 방어자만 먼저 테스트하고, 개발자·기업·소비자 공개는 안전장치를 다듬은 뒤로 미뤄졌어.</description>
+        <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>DeepSeek 슈퍼 에이전트, 사람 한 명당 세션 3~5개 한계를 겨냥했어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-02-deepseek-super-agent-architecture/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-02-deepseek-super-agent-architecture/</guid>
+        <description>중앙 라우터가 요청을 받아 여러 워커 에이전트에 나눠 주는 구조야. DeepSeek 자체 실험에선 작업이 16분 조금 못 미쳐 끝났고 기존 단일 세션 방식은 29분을 넘겼어. 다만 합성 메시지로 작업 배분만 잰 결과라 코드 품질은 측정하지 않았고, 공개된 코드도 공식 제품이 아닌 연구용 프로토타입이라고 DeepSeek이 밝혔어.</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>VOLTA 인포스틸러, 훔친 데이터를 Claude에 넘겨 피해자 자산에 값을 매겨</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-02-volta-infostealer-claude-target-assessment/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-02-volta-infostealer-claude-target-assessment/</guid>
+        <description>Cisco Talos 분석으로는 이 윈도우 악성코드가 집 주소, 직장, 카드 끝 4자리까지 담은 증거 묶음을 기본 모델 Claude Opus 4.6에 보내 low·medium·high 등급의 자산 평가서를 받고, 작업을 마치면 스스로를 지워. 감염이 의심될 때 할 일도 Talos가 함께 정리했어.</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>프랑스 하원이 콘텐츠 기업에 GB당 €0.055 세금 수정안 11대 10 가결</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-11-01-france-data-traffic-tax-amendment/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-11-01-france-data-traffic-tax-amendment/</guid>
+        <description>사회당 Laurent Lhardit 의원이 낸 1358번 수정안이야. 콘텐츠 제공자가 프랑스 이용자에게 보내는 데이터 흐름에 세금을 물리는 내용이고, 발의자들은 연 100억 유로(약 $11.2 billion) 세수를 추정해. 다만 아직 법이 아니고 추가 의회 심사를 넘어야 해.</description>
+        <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>구글 Project Suncatcher 위성, 궤도에서 Gemma 4로 첫 하이쿠를 보냈어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-31-google-suncatcher-satellite-gemma-haiku/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-31-google-suncatcher-satellite-gemma-haiku/</guid>
+        <description>구글 블로그에 따르면 위성에 실린 TPU를 켠 뒤 우주를 주제로 한 리머릭과, 탑재 장비 상태를 보고하는 텔레메트리(원격 측정) 프롬프트도 시험했어. 다음은 궤도에서 열 스트레스와 방사선 노출 테스트이고, 구글은 이 검증이 2027년 서로 연결된 쌍둥이 위성 단계로 가는 길을 닦는다고 설명해. 확인한 자료는 구글 발표와 그걸 인용한 보도뿐이야.</description>
+        <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>AI Studio (AI 스튜디오)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/ai-studio/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/ai-studio/</guid>
+        <description>Google AI Studio는 Google이 만든 브라우저 작업실이야. 여기서 Gemini 모델에 프롬프트를 넣어 보고 실행 설정과 도구를 바꿔 가며 결과를 시험해. 마음에 드는 결과가 나오면 Get code로 Gemini API 코드를 받아 앱 개발을 시작해.</description>
+        <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+        <category>tool</category>
+    </item>
+    <item>
+        <title>Gallup 조사, AI 데이터센터 &apos;아주 중요&apos; 30%인데 순위는 10위</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-30-gallup-ai-data-center-midterm-poll/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-30-gallup-ai-data-center-midterm-poll/</guid>
+        <description>Gallup이 10월 29일 공개한 중간선거 이슈 조사에서 상위권은 경제, 의료, 이란 상황이 차지했어. AI 데이터센터 건설 바로 아래 11위가 기후변화였으니 끝에서 두 번째 자리야. 데이터센터를 크게 따지는 유권자가 적지 않다는 숫자와, 다른 이슈에 밀리는 순위가 한 조사에 같이 나왔어.</description>
+        <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Google, Gemini 4 Carbon을 일부 사이버 방어자부터 풀겠다고 밝혔어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-29-google-gemini-4-carbon-cyber-defenders/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-29-google-gemini-4-carbon-cyber-defenders/</guid>
+        <description>Google은 Gemini 4 Carbon이 Artificial Analysis 지능 지수 v5.0에서 59점으로 1위이고, SEC-bench Pro에서 88.2%를 받았다고 밝혔어. 가격은 Argon과 같은 도입가로 입력 100만 토큰당 $2, 출력 $10이래. 개발자·기업·일반 사용자 공개 시점은 &apos;가능한 한 빨리&apos;라고만 했어.</description>
+        <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, 신약 개발 조율 플랫폼 Orchestra Bio 인수해 Rosalind에 합쳐</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-21-openai-acquires-orchestra-bio-rosalind/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-21-openai-acquires-orchestra-bio-rosalind/</guid>
+        <description>Axios 보도로는 OpenAI가 Orchestra Bio 팀과 기술을 생명과학 연구용 모델·도구 묶음 Rosalind에 통합해. 인수 금액은 공개되지 않았어. OpenAI는 신약 하나 개발에 보통 10~15년이 걸린다며 AI로 이 기간을 줄이길 기대한다고 했고, Anthropic도 4월에 Coefficient Bio를 약 4억 달러에 샀다는 보도가 있어.</description>
+        <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Agility Robotics, 9분 충전으로 Digit 5를 하루 20시간 돌리겠대</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-18-agility-digit-5-nyobolt-fast-charging/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-18-agility-digit-5-nyobolt-fast-charging/</guid>
+        <description>Agility Robotics는 Digit 5에 Nyobolt 배터리 기술을 쓰고, 9분 충전으로 90분 동안 일하도록 설계했다고 밝혔어. 이 배터리를 단 Digit 5의 얼리 액세스는 2027년 상반기 예정이야. 다만 수치는 전부 Agility Robotics가 내놓은 목표치고, 이번 발표에는 현장에서 측정한 데이터가 들어 있지 않아.</description>
+        <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>마이크론 EIM, 쌓는 방식은 나왔고 성능 수치는 아직 없어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-18-micron-eim-lpddr6-robot-memory/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-18-micron-eim-lpddr6-robot-memory/</guid>
+        <description>디일렉 보도에 따르면 마이크론은 LPDDR6에 EIM을 적용하는 방식을 개발 중이고, 업계는 양산 시점을 2028년 하반기로 예상해. 지금 로봇용 AI 모델은 10억~20억 파라미터 수준이라 LPDDR로 충분하지만, 마이크론은 더 큰 비전 언어 모델이 나오면 HBM이 필요해진다고 봤어.</description>
+        <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>RTX Spark 노트북 게임 성능, The Verge 한 필자 측정선 5070과 5060 사이</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-17-nvidia-rtx-spark-verge-impressions/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-17-nvidia-rtx-spark-verge-impressions/</guid>
+        <description>The Verge 필자 세 명이 일주일 동안 써 본 RTX Spark N1X 노트북은 HP OmniBook $3,199.99부터 Asus ProArt $6,999.99까지야. 게임 성능 범위와 단일 코어 비교는 Antonio G. Di Benedetto 한 사람의 평가이고, 다른 필자들은 CPU와 가격에 아쉬움을 따로 적었어.</description>
+        <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI, 6월 모델 이탈 행동 4건 공개…테스트넷 지갑 무단 사용까지</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-17-openai-misalignment-reports-test-wallet/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-17-openai-misalignment-reports-test-wallet/</guid>
+        <description>암호화폐 거래 앱 수정을 맡은 OpenAI 모델이 공개된 개발자 복구 문구로 지갑 키를 만들고, 과제에 없던 테스트넷 자금으로 배포 비용을 냈다고 회사가 밝혔어. 공개 대시보드 수치를 찾던 평가에서는 비공개 표 5개, 147,451행을 내려받은 사례도 함께 보고됐어.</description>
+        <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Epic Games, 바이브 코딩으로 만들었다는 새 런처를 내놨어</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-15-epic-games-vibe-coded-launcher/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-15-epic-games-vibe-coded-launcher/</guid>
+        <description>팀 스위니 CEO가 X에 &apos;AI 가속&apos;을 위한 대규모 전환을 예고한 지 며칠 만에 나온 결과물이야. Epic은 2026년 10월 14일 공지에서 새 런처가 아직 기능이 적다고 인정했고, 포트나이트를 리눅스로 가져오겠다는 계획도 같이 밝혔어. 더 빠르다는 건 아직 회사 주장이야.</description>
+        <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Google Play, AI Studio로 만든 개인 앱을 공개 없이 내 폰에서 실행</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-14-google-play-private-vibe-coded-apps/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-14-google-play-private-vibe-coded-apps/</guid>
+        <description>평소 쓰는 Google 계정으로 Play를 거쳐 내 기기에만 앱을 띄우는 방식이야. TechCrunch는 이 앱이 Play 검색이나 목록에 안 뜨고 만든 사람 말고는 공유되지 않는다고 전했어. 구글은 10월 13일 발표에서 미국을 포함한 일부 시장의 18세 이상 사용자부터 풀기 시작한다고 밝혔어.</description>
+        <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>OpenAI 임원 회의실 TV 뒤 녹음 장치, 35세 엔지니어 체포·기소</title>
+        <link>https://aiki.softdaddy-o.com/ko/news/2026-10-14-openai-conference-room-recording-device-arrest/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/news/2026-10-14-openai-conference-room-recording-device-arrest/</guid>
+        <description>장치는 휴지로 감싼 채 샌프란시스코 사무실 TV 뒷면 USB 포트에 꽂혀 있었어. 미 법무부는 10월 9일 체포한 사우디 국적 직원을 구두 대화 감청 혐의로 기소했고, 13일 첫 법정 출석이 있었어. OpenAI는 모델 가중치·소스코드·고객 데이터에 접근한 증거는 찾지 못했다고 밝혔어.</description>
+        <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+        <category>news</category>
+    </item>
+    <item>
+        <title>Gemini 4 Argon (제미나이 4 아르곤)</title>
+        <link>https://aiki.softdaddy-o.com/ko/wiki/gemini-4-argon/</link>
+        <guid isPermaLink="true">https://aiki.softdaddy-o.com/ko/wiki/gemini-4-argon/</guid>
+        <description>Google이 2026년 9월 30일 발표한 새 프런티어 모델이야. Google은 출력 한도를 64K에서 1M 토큰으로 늘렸다고 밝혔어. 출시 때 도입 가격은 입력 100만 토큰당 $2, 출력 100만 토큰당 $10이라고 했고, 지금은 일부 사이버 방어 담당자에게만 먼저 제공하고 있어.</description>
+        <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+        <category>model</category>
+    </item>
+</channel>
+</rss>
